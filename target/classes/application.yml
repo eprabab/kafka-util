@@ -1,0 +1,6 @@
+kafka:
+  topic: test
+  producer:
+    config: src/test/resources/producer.properties
+  consumer:
+    config: src/test/resources/consumer.properties
